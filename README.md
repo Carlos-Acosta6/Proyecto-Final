@@ -4,7 +4,7 @@
    
    Su objetivo: presentar la misión, mostrar proyectos e impacto, ofrecer transparencia y facilitar la colaboración (donaciones y voluntariado).
 
-   Características principales
+   Características principales:
   
       Diseño accesible y semántico (uso correcto de header, nav, main, section, article, footer).
   
@@ -39,25 +39,25 @@
 
     Estructura semántica
 
-      <header> contiene logo, título y <nav> principal con enlaces.
+      "header" contiene logo, título y <nav> principal con enlaces.
 
-      <main> agrupa el contenido principal en <section id="inicio">, <section id="proyectos">, etc.
+      "main" agrupa el contenido principal en <section "id="inicio">, "<section "id="proyectos">", etc.
 
       Cada artículo del blog usa <section> con <h2> para el título.
 
-      Formularios usan <form>, <fieldset>, <legend> para agrupar campos y <label for="..."> asociado a cada <input>/<select>.
+      Formularios usan "form", "fieldset", "legend" para agrupar campos y "label for="..."" asociado a cada 'input""/select".
 
       Tablas en transparencia usan <table>, <thead>, <tbody>, <caption>
 
     Accesibilidad (WCAG)
 
-     Uso de alt descriptivo en todas las imágenes (<img alt="">), ejemplo: alt="Niños leyendo en aula de la comunidad Los Pinos".
+     Uso de alt descriptivo en todas las imágenes (<img "alt="">), ejemplo: alt="Niños leyendo en aula de la comunidad Los Pinos".
 
    Etiquetas y atributos
 
-     link para los iconos(<link rel="icon" href="mi_icono">).
-     meta de viewport y lang="es" en <html lang="es">.
-     <img src="" alt="">, <video controls>
+     link para los iconos(<link "rel="icon" href="mi_icono">).
+     meta de viewport y lang="es" en <html "lang="es">.
+     <img "src="" alt="">, <video 'controls>
 
 5. Validación W3C
      (archivo de word)
